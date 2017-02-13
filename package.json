@@ -1,7 +1,8 @@
 {
-  "name": "weather",
+  "name": "react-weather-forecast",
   "version": "0.1.0",
   "private": true,
+  "author": "Humberto Suastegui",
   "devDependencies": {
     "react-scripts": "0.9.0"
   },
