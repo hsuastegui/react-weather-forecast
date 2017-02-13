@@ -1,0 +1,10 @@
+.App{
+  text-align: center;
+}
+.app_input:focus{
+  border-bottom: 1px solid #0097a7 !important;
+  box-shadow: 0 1px 0 0 #0097a7 !important;
+}
+.app_btn{
+  margin-right: 10px;
+}
